@@ -39,3 +39,9 @@
 ## Final Conclusion
   This project demonstrates how Excel with Power Query can be effectively used to clean, transform, and analyze road accident data. The analysis reveals clear patterns across time, location, and severity, showing that accidents are concentrated in specific hotspots and peak periods rather than occurring randomly. These insights can support data-driven decisions for improving road safety and highlight Excel’s capability as a practical tool for real-world data analysis.
 
+## Author & Contact
+Rahul Sonawane
+MIS Executive
+✉️Email:rsonawanebyk@gmail.com
+🔗[Linkdln](linkedin.com/in/merahulsonawane)
+🔗[Portfolio](https://github.com/merahulsonawane?tab=repositories)
