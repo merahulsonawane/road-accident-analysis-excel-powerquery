@@ -1,5 +1,5 @@
 # road-accident-analysis-excel-powerquery
-This project analyzes road accident data using Microsoft Excel with Power Query for data cleaning and transformation. The dataset was processed to remove inconsistencies, handle missing values, and standardize fields. Key insights were generated through pivot tables, calculated fields, and interactive dashboards to identify accident trends, high-risk locations, time-based patterns, and severity distribution. The project demonstrates practical Excel skills in data cleaning, analysis, and visualization for real-world decision-making.
+  This project analyzes road accident data using Microsoft Excel with Power Query for data cleaning and transformation. The dataset was processed to remove inconsistencies, handle missing values, and standardize fields. Key insights were generated through pivot tables, calculated fields, and interactive dashboards to identify accident trends, high-risk locations, time-based patterns, and severity distribution. The project demonstrates practical Excel skills in data cleaning, analysis, and visualization for real-world decision-making.
 
 ## Dataset used
 - <a href="https://github.com/merahulsonawane/road-accident-analysis-excel-powerquery/blob/main/Datasets.xlsx">Dataset</a>
@@ -27,5 +27,15 @@ This project analyzes road accident data using Microsoft Excel with Power Query 
 - Clickable icons that navigate to the dataset or pivot pages.
 
 ## Dashboard
-<img width="1649" height="858" alt="Dashboard Image" src="https://github.com/user-attachments/assets/005a8ab2-0c3a-414c-b055-8b7ea904be42" />
+  <img width="1649" height="858" alt="Dashboard Image" src="https://github.com/user-attachments/assets/005a8ab2-0c3a-414c-b055-8b7ea904be42" />
+
+## Project Insight
+- Road accidents are not evenly distributed; a limited set of locations accounts for a high percentage of total incidents.
+- Peak hours show consistently higher accident frequency, suggesting traffic volume and driver behavior as major contributors.
+- Most accidents result in non-fatal injuries, but fatal cases significantly increase during late-night and early-morning hours.
+- Certain vehicle categories are repeatedly involved in severe accidents, indicating higher exposure or risk patterns.
+- Time-based and location-based analysis shows clear patterns that can support targeted road safety and enforcement strategies.
+
+## Final Conclusion
+  This project demonstrates how Excel with Power Query can be effectively used to clean, transform, and analyze road accident data. The analysis reveals clear patterns across time, location, and severity, showing that accidents are concentrated in specific hotspots and peak periods rather than occurring randomly. These insights can support data-driven decisions for improving road safety and highlight Excel’s capability as a practical tool for real-world data analysis.
 
