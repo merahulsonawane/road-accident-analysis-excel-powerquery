@@ -42,6 +42,6 @@
 ## Author & Contact
 Rahul Sonawane
 MIS Executive
-✉️Email:rsonawanebyk@gmail.com
+✉️Email: rsonawanebyk@gmail.com
 🔗[Linkdln](linkedin.com/in/merahulsonawane)
 🔗[Portfolio](https://github.com/merahulsonawane?tab=repositories)
