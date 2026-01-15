@@ -13,6 +13,8 @@ This project analyzes road accident data using Microsoft Excel with Power Query 
 - Urban vs Rural Casualties
 - Light Condition Analysis (Day vs Night)
 
+- Dashboard Interaction <a href="https://github.com/merahulsonawane/road-accident-analysis-excel-powerquery/blob/main/Dashboard%20Image.png">View Dashboard</a>
+
 ## What have I created?
 - Visual blocks with key performance indicators (KPIs) to give a quick summary.
 - A summary of casualties grouped by type of vehicle.
@@ -23,3 +25,7 @@ This project analyzes road accident data using Microsoft Excel with Power Query 
 - Determine when most accidents happen — during daylight or darkness.
 - Interactive panel to filter data based on:
 - Clickable icons that navigate to the dataset or pivot pages.
+
+## Dashboard
+<img width="1649" height="858" alt="Dashboard Image" src="https://github.com/user-attachments/assets/005a8ab2-0c3a-414c-b055-8b7ea904be42" />
+
